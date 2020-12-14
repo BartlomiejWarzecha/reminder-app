@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "repeat-reaminder/1.0.0": {
+        "runtime": {
+          "repeat-reaminder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "repeat-reaminder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

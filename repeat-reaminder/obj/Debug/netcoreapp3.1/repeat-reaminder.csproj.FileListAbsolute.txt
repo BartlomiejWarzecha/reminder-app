@@ -1,0 +1,13 @@
+C:\Users\bartl\source\repos\repeat-reaminder\repeat-reaminder\obj\Debug\netcoreapp3.1\repeat-reaminder.csprojAssemblyReference.cache
+C:\Users\bartl\source\repos\repeat-reaminder\repeat-reaminder\obj\Debug\netcoreapp3.1\repeat-reaminder.AssemblyInfoInputs.cache
+C:\Users\bartl\source\repos\repeat-reaminder\repeat-reaminder\obj\Debug\netcoreapp3.1\repeat-reaminder.AssemblyInfo.cs
+C:\Users\bartl\source\repos\repeat-reaminder\repeat-reaminder\obj\Debug\netcoreapp3.1\repeat-reaminder.csproj.CoreCompileInputs.cache
+C:\Users\bartl\source\repos\repeat-reaminder\repeat-reaminder\bin\Debug\netcoreapp3.1\repeat-reaminder.exe
+C:\Users\bartl\source\repos\repeat-reaminder\repeat-reaminder\bin\Debug\netcoreapp3.1\repeat-reaminder.deps.json
+C:\Users\bartl\source\repos\repeat-reaminder\repeat-reaminder\bin\Debug\netcoreapp3.1\repeat-reaminder.runtimeconfig.json
+C:\Users\bartl\source\repos\repeat-reaminder\repeat-reaminder\bin\Debug\netcoreapp3.1\repeat-reaminder.runtimeconfig.dev.json
+C:\Users\bartl\source\repos\repeat-reaminder\repeat-reaminder\bin\Debug\netcoreapp3.1\repeat-reaminder.dll
+C:\Users\bartl\source\repos\repeat-reaminder\repeat-reaminder\bin\Debug\netcoreapp3.1\repeat-reaminder.pdb
+C:\Users\bartl\source\repos\repeat-reaminder\repeat-reaminder\obj\Debug\netcoreapp3.1\repeat-reaminder.dll
+C:\Users\bartl\source\repos\repeat-reaminder\repeat-reaminder\obj\Debug\netcoreapp3.1\repeat-reaminder.pdb
+C:\Users\bartl\source\repos\repeat-reaminder\repeat-reaminder\obj\Debug\netcoreapp3.1\repeat-reaminder.genruntimeconfig.cache
